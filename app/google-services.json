@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "685474260026",
+    "firebase_url": "https://projectexam0101-default-rtdb.firebaseio.com",
+    "project_id": "projectexam0101",
+    "storage_bucket": "projectexam0101.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685474260026:android:d14e189792d1cab7420103",
+        "android_client_info": {
+          "package_name": "vku.vtq.moviesstreamingappclient"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "685474260026-sp46u4kjcp2dfj4s2vdaaaj9243krtiq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmaxYZ7wxKIxjtm6fUbJ6N1c1yshA5pDo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "685474260026-sp46u4kjcp2dfj4s2vdaaaj9243krtiq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685474260026:android:1024b4d427fa3b92420103",
+        "android_client_info": {
+          "package_name": "vku.vtq.projectexam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "685474260026-sp46u4kjcp2dfj4s2vdaaaj9243krtiq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmaxYZ7wxKIxjtm6fUbJ6N1c1yshA5pDo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "685474260026-sp46u4kjcp2dfj4s2vdaaaj9243krtiq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
